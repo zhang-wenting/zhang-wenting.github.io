@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: wenting.png
+  image: wenting.PNG
   address: 
 
 news: true  # includes a list of news items
